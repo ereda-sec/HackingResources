@@ -18,8 +18,7 @@ description: '»Hacking Resources« is volunteer led Repository made for the sec
 
 Open to any additions, any articles or any suggestions'
 
-# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Hacking Resources is maintained by <a href="https://www.linkedin.com/in/eslammohamedreda/">Eslam Mohamed Reda </p>'
+credits: '<p>Hacking Resources is maintained by <a href="https://www.linkedin.com/in/eslammohamedreda/">Eslam Reda </p>'
 
 # Main author of the website
 # See > authors.yml
@@ -32,7 +31,7 @@ baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/eslam-mohamed-reda/HackingResources
+improve_content: https://github.com/ereda-sec/HackingResources
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -40,7 +39,7 @@ improve_content: https://github.com/eslam-mohamed-reda/HackingResources
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://raw.githubusercontent.com/eslam-mohamed-reda/HackingResources/master/images/'
+urlimg: 'https://raw.githubusercontent.com/ereda-sec/HackingResources/master/images/'
 
 
 # Logo size is 600x80 pixels

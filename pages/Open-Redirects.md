@@ -10,7 +10,7 @@ permalink: "/Open-Redirects"
 ---
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/eslam-mohamed-reda/hacking-resources/master/media/openredirect.gif">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/ereda-sec/HackingResources/master/images/openredirect.gif">
 </p>
 
 Open redirection vulnerabilities arise when an application incorporates user-controllable data into the target of a redirection in an unsafe way. An attacker can construct a URL within the application that causes a redirection to an arbitrary external domain.
@@ -50,10 +50,7 @@ Open redirection vulnerabilities arise when an application incorporates user-con
     login?to=
 
 
-
-* [For Manual Testing](https://github.com/eslam-mohamed-reda/hacking-resources/blob/master/Open%20redirection%20fuzzing%20list){:target="_blank"}
-
-* [Referer Open Redirect POC](https://github.com/eslam-mohamed-reda/hacking-resources/blob/master/Referer%20Open%20Redirect%20POC){:target="_blank"}  Use it to exploit vulnerable referer parameters
+* [Referer Open Redirect POC](https://raw.githubusercontent.com/ereda-sec/tools/main/payloads/referer%20open%20redirect%20POC){:target="_blank"}  Use it to exploit vulnerable referer parameters
 
 
 ***

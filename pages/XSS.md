@@ -9,7 +9,7 @@ header:
 permalink: "/XSS/"
 ---
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/eslam-mohamed-reda/hacking-resources/master/media/XSS.gif">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/ereda-sec/HackingResources/master/images/XSS.gif">
 </p>
 
 Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites. XSS attacks occur when an attacker uses a web application to send malicious code, generally in the form of a browser side script, to a different end user.
@@ -22,17 +22,11 @@ Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious s
 
 ## **XSS Tools:**
 
-### [Brute XSS](https://github.com/rajeshmajumdar/BruteXSS){:target="_blank"}
-GUI Tool written in Python
-
 #### [XSS-Radar](https://github.com/bugbountyforum/XSS-Radar){:target="_blank"}
 A Chrome extension for finding XSS
 
 #### [domxssscanner](https://github.com/yaph/domxssscanner){:target="_blank"}
 A tool to find DOM based XSS
-
-
-[For Manual Testing you can use payloads in here](https://github.com/eslam-mohamed-reda/hacking-resources/blob/master/XSS%20Payloads){:target="_blank"}
 
 ***
 

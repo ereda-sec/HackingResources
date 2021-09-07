@@ -11,7 +11,7 @@ permalink: "/Red-Team-Arsenal"
 
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif">
+  <img width="360" height="200" src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif">
 </p>
 
 * ### Resources :books:
@@ -19,6 +19,8 @@ permalink: "/Red-Team-Arsenal"
 	* **[Android Applications Resources :iphone:](https://hacking-resources.com/Android-Applications-Security.html){:target="_blank"}**
 
 	* **[Web Applications Resources](https://hacking-resources.com/Web-Applications-Security.html){:target="_blank"}** :spider_web:
+	
+	* **[Bypass AV](https://hacking-resources.com/red-teaming/AV-Evasion/){:target="_blank"}**
 
 ***
 

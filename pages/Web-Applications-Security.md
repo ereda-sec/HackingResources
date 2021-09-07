@@ -11,8 +11,9 @@ header:
 
 
 * ### Resources
+<br/>
 
-  * [OWASP Web Security Testing Guide](https://www.owasp.org/images/1/19/OTGv4.pdf){:target="_blank"}
+  * [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/){:target="_blank"}
   
   * [XSS](https://hacking-resources.com/XSS){:target="_blank"}
   
